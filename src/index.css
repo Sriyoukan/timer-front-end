@@ -1,0 +1,22 @@
+.timer {
+    font: 14px , Futura, sans-serif;
+    margin: 20px;
+    position: relative;
+    margin-top: 1cm;
+    margin-left: 13cm;
+    margin-right: 15cm;
+    padding-left: 1cm;
+    padding-right: 1cm;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-color: black;
+    border-width: 2px;
+    border-style: groove;
+  }
+  
+
+  h2{
+    margin: 5px;
+    padding: 5px;
+  }
+  
